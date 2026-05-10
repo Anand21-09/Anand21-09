@@ -79,6 +79,15 @@ public class Anand {
 <img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge&logo=blueprint&logoColor=black"/>
 </p>
 
+### 🧠 Core 
+<p>
+<img src="https://img.shields.io/badge/OOPS-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-FFB703?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_System-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
