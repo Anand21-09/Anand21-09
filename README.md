@@ -88,7 +88,6 @@ public class Anand {
 
 ---
 
-🐍 Contribution Snake
 
 
 <div align="center">
