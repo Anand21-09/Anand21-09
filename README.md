@@ -91,6 +91,20 @@ public class Anand {
 <img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge"/>
 </p>
 
+### 🎮 3D & Creative Tech
+<p>
+<img src="https://img.shields.io/badge/3D_Concepts-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creative_Direction-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cinematic_Storytelling-E50914?style=for-the-badge"/>
+</p>
+
+### 🎮 3D Tech
+<p>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
