@@ -103,23 +103,23 @@ public class Anand {
 </div>
 
 ---
-## 🎯 Hobbies & Interests
+
+
+# 🎯 Hobbies & Interests
 
 <p>
-<img src="https://img.shields.io/badge/DSA_Problem_Solving-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem_Solving-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Movies-E50914?style=for-the-badge&logo=netflix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Writing-8E44AD?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Direction-FF6B6B?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cricket-00C853?style=for-the-badge&logo=cricketwireless&logoColor=white"/>
 </p>
-
 ---
 
 ## 📬 Contact Me
 
 <p align="left">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:anandkumar001k@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -127,7 +127,7 @@ public class Anand {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/anand-kumar-a06379354/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
