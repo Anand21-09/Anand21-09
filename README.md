@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-```
+```txt
 ██████╗  ███╗   ██╗ █████╗ ███╗   ██╗██████╗
 ██╔══██╗ ████╗  ██║██╔══██╗████╗  ██║██╔══██╗
 ███████║ ██╔██╗ ██║███████║██╔██╗ ██║██║  ██║
@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+%7C+MERN+Stack;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+Grinder+%F0%9F%94%A5;Building+things+that+scale." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Java+%2B+Spring+Boot+%7C+Software+Engineering;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+Grinder+%F0%9F%94%A5;Building+scalable+backend+systems." alt="Typing SVG" /></a>
 
 </div>
 
@@ -29,7 +29,7 @@
 ```java
 public class Anand {
 
-    String role     = "Full Stack Developer";
+    String role     = "Software Engineer";
     String[] focus  = {"Java", "Spring Boot", "System Design", "DSA"};
     String[] loves  = {"Clean architecture", "Scalable APIs", "Problem solving"};
 
