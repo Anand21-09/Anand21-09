@@ -17,8 +17,9 @@
 <!-- Badges -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anand&label=Profile+Views&color=00ffab&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/anand?label=Followers&style=flat-square&color=00ffab" />
+<img src="https://komarev.com/ghpvc/?username=Anand21-09&label=Profile+Views&color=00ffab&style=flat-square" alt="profile views" />
+
+<img src="https://img.shields.io/github/followers/Anand21-09?label=Followers&style=flat-square&color=00ffab" />
 
 </div>
 
@@ -77,12 +78,13 @@ public class Anand {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anand&show_icons=true&theme=github_dark&border_color=00ffab&title_color=00ffab&icon_color=00ffab&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand&theme=github-dark-blue&border=00ffab&ring=00ffab&fire=ff6b6b&currStreakLabel=00ffab" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anand21-09&show_icons=true&theme=github_dark&border_color=00ffab&title_color=00ffab&icon_color=00ffab&hide_border=false" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand21-09&theme=github-dark-blue&border=00ffab&ring=00ffab&fire=ff6b6b&currStreakLabel=00ffab" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand&layout=compact&theme=github_dark&border_color=00ffab&title_color=00ffab" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand21-09&layout=compact&theme=github_dark&border_color=00ffab&title_color=00ffab" width="40%"/>
 </div>
 
 ---
@@ -90,7 +92,7 @@ public class Anand {
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anand/anand/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Anand21-09/Anand21-09/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
