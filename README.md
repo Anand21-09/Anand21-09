@@ -89,8 +89,10 @@ public class Anand {
 ---
 
 🐍 Contribution Snake
+
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anand21-09/Anand21-09/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffab&height=80&section=footer" />
 </div>
 
 
