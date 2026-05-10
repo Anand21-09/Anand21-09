@@ -103,7 +103,35 @@ public class Anand {
 </div>
 
 ---
+## 🎯 Hobbies & Interests
 
+<p>
+<img src="https://img.shields.io/badge/DSA_Problem_Solving-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-00C2FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anand21-09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 
 <div align="center">
