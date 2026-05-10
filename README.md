@@ -93,6 +93,7 @@ public class Anand {
 
 ### 🎮 3D & Creative Tech
 <p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/3D_Concepts-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Creative_Direction-222222?style=for-the-badge"/>
