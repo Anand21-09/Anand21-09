@@ -88,7 +88,6 @@ public class Anand {
 <img src="https://img.shields.io/badge/DBMS-FFB703?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Operating_System-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer_Networks-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge"/>
 </p>
 
 ### 🎮 3D & Creative Tech
