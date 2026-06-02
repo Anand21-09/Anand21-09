@@ -15,12 +15,6 @@
 </div>
 
 <!-- Badges -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anand21-09&label=Profile+Views&color=00ffab&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Anand21-09?label=Followers&style=flat-square&color=00ffab" />
-
-</div>
 
 ---
 
