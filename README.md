@@ -104,7 +104,7 @@ public class Anand {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-virid-delta-1e8u2clf1o.vercel.app/api?username=Anand21-09&show_icons=true&theme=github_dark&border_color=00ffab&title_color=00ffab&icon_color=00ffab&hide_border=false" width="48%"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand21-09&theme=github-dark-blue&border=00ffab&ring=00ffab&fire=ff6b6b&currStreakLabel=00ffab" width="48%"/>
 </div>
