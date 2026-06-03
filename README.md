@@ -109,9 +109,7 @@ public class Anand {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand21-09&theme=github-dark-blue&border=00ffab&ring=00ffab&fire=ff6b6b&currStreakLabel=00ffab" width="48%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats-virid-delta-1e8u2clf1o.vercel.app/api/top-langs/?username=Anand21-09&layout=compact&theme=github_dark&border_color=00ffab&title_color=00ffab&hide=html,css&langs_count=6" width="40%"/>
-</div>
+
 
 ---
 
